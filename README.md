@@ -1,6 +1,6 @@
-# Nagłówek pierwszy do zadania (#pierwszy)
+# Nagłówek pierwszy do zadania {#pierwszy}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas risus enim, tristique vitae fringilla sit amet, vestibulum a leo. Aliquam tempus felis eget 
-# Nagłówek drugi do zadania (#drugi)
+# Nagłówek drugi do zadania {#drugi}
 Integer volutpat, sapien id ullamcorper rutrum, est turpis tempus turpis, quis cursus leo massa in diam. Donec vitae tellus vel nunc consectetur ullamcorper. Pellentesque enim felis, pretium vel risus 
 
 [Link do nagłówka 1](#pierwszy)
